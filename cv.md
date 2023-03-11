@@ -1,13 +1,14 @@
-#Anu#
+#Anu
 
-####Junior Frontend Developer####
+####Junior Frontend Developer
 
-####Contact information:####
+####Contact information:
+1.email
+2.github
+####Other informalion:
 
-####Other informalion####
+####Skills and Proficiency:
 
-####Skills and Proficiency:####
+####Code example:
 
-####Code example:####
-
-####Languages:####
+####Languages:
