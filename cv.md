@@ -17,17 +17,17 @@
 
 ---
 
-I’m a junior frontend developer. I do my best to upgrade my skills. I'm working in IT company on JN position.\
+I’m a junior frontend developer. I do my best to upgrade my skills. I'm working in IT company on Junior position.\
 I have bachelor and master degree in chemistry and IT basic certificate.
 
 #### Skills and Proficiency:
 
 ---
 
-- HTML\
-- CSS\
-- basic JS\
-- basic C#\
+- HTML
+- CSS
+- basic JS
+- basic C#
 - Jira
 
 #### Code example:
